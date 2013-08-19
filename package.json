@@ -26,7 +26,8 @@
   "devDependencies": {
     "express": "2.x",
     "connect": "2.x",
-    "ejs": "0.8.x"
+    "ejs": "0.8.x",
+    "debug": "~0.7.2"
   },
   "scripts": {
     "test": "jasmine-node spec"
